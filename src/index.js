@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-
+var a=12;
 ReactDOM.render(
-  'hellow',
+  a,
   document.getElementById('root')
 );
 
